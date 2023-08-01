@@ -7,6 +7,7 @@ body {
     font-family: 'Lato', sans-serif;
     color: #ffffff;
     background-color: rgba(50, 50, 50, 1);
+    background-repeat: no-repeat;
     position: relative;
     overflow: hidden;
     background-image: url('background.png');
